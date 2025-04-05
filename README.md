@@ -6,10 +6,10 @@ A placeholder to try to organized my thoughts, show off some of my progress in p
 #### NOAA Projects
 ---
 Senior admin for the following NOAA NCO Applications.
-- [SPOT](spot.weather.gov)
-- [Alertsv2](alerts.weather.gov)
+- [SPOT](https://spot.weather.gov)
+- [Alertsv2](https://alerts.weather.gov)
 - [NWWS-OI](https://www.weather.gov/nwws/)
-- [RA4-GIFS](ra4-gifs.weather.gov)
+- [RA4-GIFS](https://ra4-gifs.weather.gov)
 
 #### Slurm
 ---
