@@ -1,3 +1,19 @@
 theme: jekyll-theme-midnight
+email: tyler@boswick.tech
 title: The Maker of Tables, esq
 description: Placeholder text for a blog
+baseurl: ""
+url: "https://tablemakerr.github.io"
+github_username: tablemakerr
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:categories:output_ext
+
+header_pages:
+  - about.html
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
